@@ -1449,5 +1449,12 @@
   "title": "Set IPTV",
   "keyword": "set iptv",
   "date": "2026-11-02"
+ },
+ {
+  "slug": "ig-iptv",
+  "url": "https://mijniptv.com/ig-iptv/",
+  "title": "IG IPTV",
+  "keyword": "ig iptv",
+  "date": "2026-11-03"
  }
 ]
