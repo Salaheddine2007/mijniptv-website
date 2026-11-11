@@ -1561,5 +1561,12 @@
   "title": "Appli IPTV",
   "keyword": "appli iptv",
   "date": "2026-11-10"
+ },
+ {
+  "slug": "uhf-iptv",
+  "url": "https://mijniptv.com/uhf-iptv/",
+  "title": "UHF IPTV",
+  "keyword": "uhf iptv",
+  "date": "2026-11-11"
  }
 ]
