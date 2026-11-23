@@ -1729,5 +1729,12 @@
   "title": "IPTV Speler",
   "keyword": "iptv speler",
   "date": "2026-11-23"
+ },
+ {
+  "slug": "iptv-stream",
+  "url": "https://mijniptv.com/iptv-stream/",
+  "title": "IPTV Stream",
+  "keyword": "iptv stream",
+  "date": "2026-11-23"
  }
 ]
